@@ -1,0 +1,335 @@
+2019-07-05 22:44:47,911 http_server.py:115 INFO Path: /
+2019-07-05 22:44:53,760 http_server.py:115 INFO Path: /
+2019-07-05 22:45:49,831 http_server.py:115 INFO Path: /
+2019-07-05 22:45:49,846 http_server.py:115 INFO Path: /
+2019-07-05 22:45:54,997 http_server.py:115 INFO Path: /
+2019-07-05 22:45:55,010 http_server.py:115 INFO Path: /
+2019-07-05 22:46:43,260 http_server.py:115 INFO Path: /
+2019-07-05 22:46:43,272 http_server.py:115 INFO Path: /
+2019-07-05 22:50:25,964 http_server.py:120 INFO Path: /
+2019-07-05 22:50:25,964 http_server.py:121 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:50:25,976 http_server.py:124 INFO mime-type: None
+2019-07-05 22:50:26,030 http_server.py:120 INFO Path: /
+2019-07-05 22:50:26,030 http_server.py:121 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:50:26,030 http_server.py:124 INFO mime-type: None
+2019-07-05 22:50:38,599 http_server.py:120 INFO Path: /
+2019-07-05 22:50:38,600 http_server.py:121 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:50:38,600 http_server.py:124 INFO mime-type: None
+2019-07-05 22:50:38,660 http_server.py:120 INFO Path: /
+2019-07-05 22:50:38,660 http_server.py:121 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:50:38,660 http_server.py:124 INFO mime-type: None
+2019-07-05 22:52:02,487 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 22:52:02,487 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 22:52:02,493 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 22:52:02,493 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 22:52:02,536 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 22:52:02,537 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 22:52:02,547 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 22:52:02,547 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 22:52:02,559 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 22:52:02,559 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 22:52:02,570 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 22:52:02,570 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 22:52:02,580 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 22:52:02,581 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 22:52:02,592 http_server.py:113 INFO Path: /images
+2019-07-05 22:52:02,592 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 22:52:02,604 http_server.py:113 INFO Path: /
+2019-07-05 22:52:02,605 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:52:02,614 http_server.py:123 INFO mime-type: None
+2019-07-05 22:52:02,711 http_server.py:113 INFO Path: /
+2019-07-05 22:52:02,712 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:52:02,712 http_server.py:123 INFO mime-type: None
+2019-07-05 22:52:50,506 http_server.py:113 INFO Path: /
+2019-07-05 22:52:50,507 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:52:50,507 http_server.py:123 INFO mime-type: None
+2019-07-05 22:54:41,637 http_server.py:113 INFO Path: /
+2019-07-05 22:54:41,638 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:54:46,712 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 22:54:46,712 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 22:54:46,719 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 22:54:46,719 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 22:54:46,762 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 22:54:46,762 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 22:54:46,774 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 22:54:46,774 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 22:54:46,786 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 22:54:46,786 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 22:54:46,798 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 22:54:46,798 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 22:54:46,811 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 22:54:46,811 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 22:54:46,821 http_server.py:113 INFO Path: /images
+2019-07-05 22:54:46,821 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 22:54:46,832 http_server.py:113 INFO Path: /
+2019-07-05 22:54:46,832 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:54:46,847 http_server.py:113 INFO Path: /
+2019-07-05 22:54:46,847 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:55:19,171 http_server.py:113 INFO Path: /images
+2019-07-05 22:55:19,172 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 22:57:09,533 http_server.py:113 INFO Path: /images
+2019-07-05 22:57:09,533 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 22:57:58,516 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 22:57:58,516 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 22:57:58,523 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 22:57:58,523 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 22:57:58,565 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 22:57:58,565 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 22:57:58,576 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 22:57:58,577 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 22:57:58,587 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 22:57:58,587 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 22:57:58,596 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 22:57:58,597 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 22:57:58,610 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 22:57:58,611 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 22:57:58,623 http_server.py:113 INFO Path: /images
+2019-07-05 22:57:58,623 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 22:57:58,636 http_server.py:113 INFO Path: /
+2019-07-05 22:57:58,636 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 22:57:58,650 http_server.py:113 INFO Path: /
+2019-07-05 22:57:58,650 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:00:26,909 http_server.py:113 INFO Path: /
+2019-07-05 23:00:26,910 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:00:34,014 http_server.py:113 INFO Path: /images
+2019-07-05 23:00:34,015 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:01:36,674 http_server.py:113 INFO Path: /images
+2019-07-05 23:01:36,675 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:01:36,675 http_server.py:116 INFO Path: /images not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:03:23,614 http_server.py:113 INFO Path: /images
+2019-07-05 23:03:23,614 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:03:23,614 http_server.py:116 INFO Path: /images not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:07:36,047 http_server.py:113 INFO Path: /images
+2019-07-05 23:07:36,047 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:07:36,047 http_server.py:116 INFO Path: /images not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:09:18,780 http_server.py:113 INFO Path: /images
+2019-07-05 23:09:18,780 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:09:25,667 http_server.py:113 INFO Path: /images
+2019-07-05 23:09:25,668 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:09:25,996 http_server.py:113 INFO Path: /images
+2019-07-05 23:09:25,996 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:10:14,534 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 23:10:14,534 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 23:10:14,534 http_server.py:116 INFO Path: /asdf.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:10:31,065 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 23:10:31,065 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 23:10:31,066 http_server.py:116 INFO Path: /asdf.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:10:31,072 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:10:31,072 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:10:31,072 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:10:31,118 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:10:31,118 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:10:31,118 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:10:31,128 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:10:31,129 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:10:31,129 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:10:31,139 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:10:31,139 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:10:31,139 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:10:31,149 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:10:31,149 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:10:31,158 http_server.py:124 INFO mime-type: text/plain
+2019-07-05 23:10:31,206 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:10:31,206 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:10:31,206 http_server.py:124 INFO mime-type: text/plain
+2019-07-05 23:10:31,256 http_server.py:113 INFO Path: /images
+2019-07-05 23:10:31,256 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:10:31,265 http_server.py:113 INFO Path: /
+2019-07-05 23:10:31,265 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:10:31,265 http_server.py:116 INFO Path: / not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:10:31,283 http_server.py:113 INFO Path: /
+2019-07-05 23:10:31,283 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:10:31,283 http_server.py:116 INFO Path: / not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,739 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 23:12:52,739 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 23:12:52,739 http_server.py:116 INFO Path: /asdf.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,747 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:12:52,747 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:12:52,747 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,790 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:12:52,790 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:12:52,790 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,800 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:12:52,800 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:12:52,800 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,810 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:12:52,810 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:12:52,811 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,820 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:12:52,820 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:12:52,820 http_server.py:116 INFO Path: /sample.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,832 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:12:52,833 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:12:52,833 http_server.py:116 INFO Path: /sample.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,846 http_server.py:113 INFO Path: /images
+2019-07-05 23:12:52,846 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:12:52,847 http_server.py:116 INFO Path: /images not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,858 http_server.py:113 INFO Path: /
+2019-07-05 23:12:52,858 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:12:52,858 http_server.py:116 INFO Path: / not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:12:52,874 http_server.py:113 INFO Path: /
+2019-07-05 23:12:52,874 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:12:52,874 http_server.py:116 INFO Path: / not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,384 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 23:14:35,384 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 23:14:35,384 http_server.py:116 INFO Path: /asdf.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,391 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:14:35,391 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:14:35,391 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,434 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:14:35,435 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:14:35,435 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,447 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:14:35,447 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:14:35,447 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,458 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:14:35,458 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:14:35,458 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,470 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:14:35,470 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:14:35,470 http_server.py:116 INFO Path: /sample.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,480 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:14:35,481 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:14:35,481 http_server.py:116 INFO Path: /sample.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,491 http_server.py:113 INFO Path: /images
+2019-07-05 23:14:35,491 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:14:35,491 http_server.py:116 INFO Path: /images not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,502 http_server.py:113 INFO Path: /
+2019-07-05 23:14:35,502 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:14:35,502 http_server.py:116 INFO Path: / not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:14:35,520 http_server.py:113 INFO Path: /
+2019-07-05 23:14:35,521 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:14:35,521 http_server.py:116 INFO Path: / not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:19:50,882 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 23:19:50,882 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 23:19:50,882 http_server.py:116 INFO Path: /asdf.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:19:50,891 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:19:50,891 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:19:50,892 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:19:50,935 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:19:50,935 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:19:50,935 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:19:50,948 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:19:50,948 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:19:50,948 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:19:50,961 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:19:50,961 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:19:50,961 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:19:50,974 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:19:50,974 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:19:50,982 http_server.py:124 INFO mime-type: text/plain
+2019-07-05 23:19:51,038 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:19:51,038 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:19:51,038 http_server.py:124 INFO mime-type: text/plain
+2019-07-05 23:19:51,090 http_server.py:113 INFO Path: /images
+2019-07-05 23:19:51,090 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:19:51,101 http_server.py:113 INFO Path: /
+2019-07-05 23:19:51,101 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:19:51,118 http_server.py:113 INFO Path: /
+2019-07-05 23:19:51,118 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:20:37,890 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:20:37,890 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:20:37,891 http_server.py:124 INFO mime-type: text/plain
+2019-07-05 23:21:31,608 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:21:31,608 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:21:31,613 http_server.py:124 INFO mime-type: b'text/plain'
+2019-07-05 23:21:35,272 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 23:21:35,273 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 23:21:35,273 http_server.py:116 INFO Path: /asdf.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:21:35,281 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:21:35,281 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:21:35,281 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:21:35,323 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:21:35,323 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:21:35,323 http_server.py:116 INFO Path: /images/sample_1.png not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:21:35,334 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:21:35,334 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:21:35,334 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:21:35,346 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:21:35,346 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:21:35,346 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:21:35,357 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:21:35,357 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:21:35,357 http_server.py:124 INFO mime-type: b'text/plain'
+2019-07-05 23:21:35,364 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:21:35,364 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:21:35,364 http_server.py:124 INFO mime-type: b'text/plain'
+2019-07-05 23:21:35,371 http_server.py:113 INFO Path: /images
+2019-07-05 23:21:35,371 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:21:35,379 http_server.py:113 INFO Path: /
+2019-07-05 23:21:35,379 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:21:35,394 http_server.py:113 INFO Path: /
+2019-07-05 23:21:35,394 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:22:03,785 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:22:03,786 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:22:03,786 http_server.py:116 INFO Path: /images/Sample_Scene_Balls.jpg not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:22:27,880 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:22:27,880 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:25:58,484 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:25:58,484 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:25:58,490 http_server.py:125 INFO mime-type: b'image/jpeg'
+2019-07-05 23:26:16,787 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 23:26:16,787 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 23:26:16,787 http_server.py:117 INFO Path: /asdf.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:26:16,794 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:26:16,794 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:26:16,795 http_server.py:125 INFO mime-type: b'image/png'
+2019-07-05 23:26:16,803 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:26:16,803 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:26:16,803 http_server.py:125 INFO mime-type: b'image/png'
+2019-07-05 23:26:16,811 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:26:16,811 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:26:16,811 http_server.py:125 INFO mime-type: b'image/jpeg'
+2019-07-05 23:26:16,820 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:26:16,820 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:26:16,820 http_server.py:125 INFO mime-type: b'image/jpeg'
+2019-07-05 23:26:16,827 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:26:16,827 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:26:16,827 http_server.py:125 INFO mime-type: b'text/plain'
+2019-07-05 23:26:16,834 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:26:16,834 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:26:16,834 http_server.py:125 INFO mime-type: b'text/plain'
+2019-07-05 23:26:16,842 http_server.py:113 INFO Path: /images
+2019-07-05 23:26:16,842 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:26:16,848 http_server.py:113 INFO Path: /
+2019-07-05 23:26:16,848 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:26:16,862 http_server.py:113 INFO Path: /
+2019-07-05 23:26:16,862 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:27:43,462 http_server.py:113 INFO Path: /asdf.txt
+2019-07-05 23:27:43,462 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/asdf.txt
+2019-07-05 23:27:43,462 http_server.py:117 INFO Path: /asdf.txt not found in dir: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot
+2019-07-05 23:27:43,469 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:27:43,469 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:27:43,469 http_server.py:125 INFO mime-type: b'image/png'
+2019-07-05 23:27:43,476 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:27:43,476 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:27:43,476 http_server.py:125 INFO mime-type: b'image/png'
+2019-07-05 23:27:43,482 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:27:43,482 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:27:43,482 http_server.py:125 INFO mime-type: b'image/jpeg'
+2019-07-05 23:27:43,490 http_server.py:113 INFO Path: /images/Sample_Scene_Balls.jpg
+2019-07-05 23:27:43,490 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/Sample_Scene_Balls.jpg
+2019-07-05 23:27:43,491 http_server.py:125 INFO mime-type: b'image/jpeg'
+2019-07-05 23:27:43,498 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:27:43,499 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:27:43,499 http_server.py:125 INFO mime-type: b'text/plain'
+2019-07-05 23:27:43,505 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:27:43,506 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:27:43,506 http_server.py:125 INFO mime-type: b'text/plain'
+2019-07-05 23:27:43,512 http_server.py:113 INFO Path: /images
+2019-07-05 23:27:43,512 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images
+2019-07-05 23:27:43,518 http_server.py:113 INFO Path: /
+2019-07-05 23:27:43,518 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:27:43,531 http_server.py:113 INFO Path: /
+2019-07-05 23:27:43,531 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:28:22,322 http_server.py:113 INFO Path: /
+2019-07-05 23:28:22,322 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/
+2019-07-05 23:28:26,577 http_server.py:113 INFO Path: /sample.txt
+2019-07-05 23:28:26,577 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/sample.txt
+2019-07-05 23:28:26,585 http_server.py:124 INFO mime-type: b'text/plain'
+2019-07-05 23:28:32,452 http_server.py:113 INFO Path: /images/sample_1.png
+2019-07-05 23:28:32,452 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/images/sample_1.png
+2019-07-05 23:28:32,452 http_server.py:124 INFO mime-type: b'image/png'
+2019-07-05 23:28:41,634 http_server.py:113 INFO Path: /make_time.py
+2019-07-05 23:28:41,634 http_server.py:114 INFO Full path: /Users/vivian/PycharmProjects/_pythoncert_q3/socket-http-server/webroot/make_time.py
+2019-07-05 23:28:41,634 http_server.py:124 INFO mime-type: b'text/x-python'

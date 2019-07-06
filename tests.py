@@ -123,7 +123,7 @@ class WebTestCase(unittest.TestCase):
         error_comment = "Error encountered while visiting " + web_path
 
         response = self.get_response(web_path)
-
+        print(response.getheader(name="Host"))
         self.assertEqual(response.getcode(), 200, error_comment)
 
         with open(local_path, 'rb') as f:
@@ -184,7 +184,7 @@ class WebTestCase(unittest.TestCase):
 
         response = self.get_response(web_path)
         body = response.read().decode()
-
+        print(os.listdir(local_path))
         for path in os.listdir(local_path):
             self.assertIn(path, body, error_comment)
 
