@@ -8,7 +8,7 @@ import logging
 
 def init_logging():
     """ Setting up the logger
-        Logging to a file called db.log with anything INFO and above
+        Logging to a file called http_server.log with anything INFO and above
     """
     logger = logging.getLogger(__name__)
     log_format = (
@@ -24,6 +24,7 @@ def init_logging():
 
 
 LOGGER = init_logging()
+
 
 def response_ok(body=b"This is a minimal response", mimetype=b"text/plain"):
     """
@@ -108,14 +109,15 @@ def response_path(path):
         response_path('/a_page_that_doesnt_exist.html') -> Raises a NameError
 
     """
-    dir = os.path.dirname(os.path.abspath(__file__)) + "/webroot"
-    full_path = dir + path
+    directory = os.path.dirname(os.path.abspath(__file__)) + "/webroot"
+    full_path = directory + path
     LOGGER.info("Path: %s", path)
     LOGGER.info("Full path: %s", full_path)
     if not os.path.exists(full_path):
-        LOGGER.info("Path: %s not found in dir: %s", path, dir)
+        LOGGER.info("Path: %s not found in dir: %s", path, directory)
         raise NameError
-    elif os.path.isdir(full_path):
+
+    if os.path.isdir(full_path):
         mime_type = b"text/plain"
         content = "\r\n".join(os.listdir(full_path)).encode("utf-8")
     else:
@@ -170,7 +172,7 @@ def server(log_buffer=sys.stderr):
             except:
                 traceback.print_exc()
             finally:
-                conn.close() 
+                conn.close()
 
     except KeyboardInterrupt:
         sock.close()
@@ -182,5 +184,3 @@ def server(log_buffer=sys.stderr):
 if __name__ == '__main__':
     server()
     sys.exit(0)
-
-
